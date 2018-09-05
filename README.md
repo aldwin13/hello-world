@@ -1,2 +1,3 @@
 # hello-world
 Just testing and hopefully who knows...
+interested in powershell to use in automation
